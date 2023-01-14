@@ -1,0 +1,17 @@
+
+
+
+INSTALL LODASH UTILITY LIBRARY
+ npm i --save lodash
+ npm i -g lodash
+
+INSTALL EXPRESS
+ npm install express
+
+INSTALL EJS (VIEW ENGINE TO INJECT DYNAMIC DATA TO HTML)
+ npm install ejs
+
+INSTALL MORGAN MIDDLEWARE LIBRARY
+  npm install morgan --save
+
+
