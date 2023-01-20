@@ -1,4 +1,3 @@
-tutorial 5
 
 
 INSTALL LODASH UTILITY LIBRARY
